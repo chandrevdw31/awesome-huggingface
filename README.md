@@ -132,3 +132,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 *The infrastructure enabling the magic to happen.*
 * [Qualcomm](https://www.qualcomm.com/news/onq/2020/12/02/exploring-ai-capabilities-qualcomm-snapdragon-888-mobile-platform) - Collaboration on enabling Transformers in Snapdragon.
 * [Intel](https://github.com/huggingface/tune) - Collaboration with Intel for configuration options.
+
+## 🧰 Third-Party Tools
+*Tools that are integrated with HuggingFace.*
+* [MindsDB](https://github.com/mindsdb/mindsdb) - Integrates with HuggingFace, enabling users to deploy, serve, and fine-tune models available via [HuggingFace within MindsDB](https://docs.mindsdb.com/integrations/ai-engines/huggingface), making them accessible to numerous data sources.
